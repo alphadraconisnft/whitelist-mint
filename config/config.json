@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x749b2c1ef5db3f63e4fbb64888aec78620c7eac6",
+  "SCAN_LINK": "https://etherscan.io/address/0x749b2c1ef5db3f63e4fbb64888aec78620c7eac6",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Alpha Draconis",
+  "SYMBOL": "ALPHADRACONIS",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 35000000000000000,
+  "DISPLAY_COST": 0.035,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/AlphaDraconis",
+  "SHOW_BACKGROUND": true
+}
